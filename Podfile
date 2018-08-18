@@ -7,7 +7,7 @@ target 'ToYouTube' do
 
   # Pods for ToYouTube
   pod 'Alamofire', '~> 4.5'
-  pod 'AlamofireObjectMapper', '~> 4.1'
+  pod 'AlamofireObjectMapper', '~> 5.0'
 
   target 'ToYouTubeTests' do
     inherit! :search_paths
